@@ -16,13 +16,6 @@ dist/
 dist-ssr/
 *.local
 
-# Environment variables & secrets
-.env
-.env.*
-!.env.example
-backend/.env
-backend/.env.*
-!backend/.env.example
 
 # Editor & OS files
 .vscode/
